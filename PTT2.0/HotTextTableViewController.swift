@@ -21,7 +21,7 @@ class HotTextTableViewController: UITableViewController {
         super.viewDidLoad()
         SVProgressHUD.show()
         loadData()
-        //tableView.rowHeight = 100.0
+        
         
         
     }
